@@ -93,7 +93,9 @@
 }
 
 body {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .9) 10%, rgba(0, 0, 0, 0) 100%), url(https://picsum.photos/3000/3000);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .9) 10%, rgba(0, 0, 0, 0) 100%), url("images/IMG_20210101_070301.jpg");
+  background-size: cover;
+  background-position: center;
   color: #0E1428;
   font-family: 'Barlow', sans-serif;
 }
